@@ -1,0 +1,5 @@
+~ Dengan project terserah kalian, praktikkan salah satu workflow sederhana dan buktikan dengan Screenshot. github flow/gitflow/trunk base
+~ Github Flow
+~ Git Flow
+~ Lakukan management konflik pada github
+~ Lakukan code review pada github yang kalian kumpulkan
