@@ -6,3 +6,18 @@
    
 //    Sampel 
 //    Output: js: 5, golang: 2, python: 1, rust: 1
+
+
+  
+void main() {
+  List<String> input = ["js", "js", "js", "golang", "python", "js", "js", "golang", "rust"];
+  Map<String, int> frequencyMap = {};
+
+  for (var value in input) {
+    frequencyMap[value] = (frequencyMap[value] ?? 0) + 1;
+  }
+  
+  frequencyMap.forEach((key, value) {
+    print("$key: $value");
+  });
+}
