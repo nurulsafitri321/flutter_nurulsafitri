@@ -1,5 +1,7 @@
 // // 1. Sebuah toko buku ingin mengembangkan sebuah sistem untuk mengelola data buku. 
-//       Data buku tersebut terdiri dari ID, judul, penerbit, harga dan kategori. Sistem tersebut dapat menambahkan, mendapatkan semua data buku dan menghapus data buku. Buatlah program berdasarkan skenario tersebut.
+//       Data buku tersebut terdiri dari ID, judul, penerbit, harga dan kategori. 
+//       Sistem tersebut dapat menambahkan, mendapatkan semua data buku dan menghapus data buku. 
+//       Buatlah program berdasarkan skenario tersebut.
 
 
 import 'dart:io';
