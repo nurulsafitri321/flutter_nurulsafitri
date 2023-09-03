@@ -6,5 +6,5 @@ class Sapi{
 
 void main(){
   var h1 = Sapi();
-  h1.makan();
+  h1.makan(); 
 }
