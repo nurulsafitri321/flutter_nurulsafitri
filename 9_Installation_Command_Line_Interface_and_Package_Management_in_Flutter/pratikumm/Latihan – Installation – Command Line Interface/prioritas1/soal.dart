@@ -30,5 +30,5 @@
 // Buktikan setiap hal di atas pada screenshot folder di github
 
 //  Jawab
-//----------
+// ----------
 
